@@ -1,0 +1,9 @@
+[submodule "Project"]
+	path = Project
+	url = https://github.com/Madhulika024/ML-Project.git
+[submodule "Practical"]
+	path = Practical
+	url = https://github.com/Madhulika024/ML-Practical.git
+[submodule "Skill"]
+	path = Skill
+	url = https://github.com/Madhulika024/ML-Skill.git
